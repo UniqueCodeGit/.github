@@ -2,7 +2,7 @@
 당신의 디스코드에 유니크한 재미를 더.
 
 ## 정보
-+ 웹사이트 - https://uniquecode.team
++ 웹사이트 - [uniquecode.team](https://uniquecode.team)
 + 디스코드 - [discord.gg/ARCdUzC](https://discord.gg/ARCdUzC)
 + 대표 - [UniqueDevStorm](https://github.com/UniqueDevStorm)
 
