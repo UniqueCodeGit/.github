@@ -9,5 +9,5 @@
 ## 페이지
 + [프로젝트](page/project/README.md)
 + [팀원](page/member/README.md)
-+ [채용](pages/recruit/README.md)
++ [채용](page/recruit/README.md)
 
