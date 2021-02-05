@@ -1,4 +1,4 @@
-# UniqueCodeGit
+# UniqueCode
 당신의 디스코드에 유니크한 재미를 더.
 
 ## 정보
