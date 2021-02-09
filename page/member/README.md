@@ -16,7 +16,10 @@
 + [sleepylapis](/page/member/sleepylapis.md)
 
 
-[🡸](https://github.com/UniqueCodeGit/UniqueCodeGit)
+팀원분들은 각자 자기 readme에 커밋하세요
+올려달라고 하시면 올려드림
+
+[▶️](https://github.com/UniqueCodeGit/UniqueCodeGit)
 
 
 
