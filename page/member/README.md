@@ -8,12 +8,13 @@
 + [Minibox](/page/member/minibox.md)
 + [ReDesigned](/page/member/redesigned.md)
 + [SaidBySolo](/page/member/saidbysolo.md)
++ [키키](/page/member/kiki.md)
 + [파랑이](/page/member/pikokr.md)
 + [Sandsunset](/page/member/sandsunmset.md)
 + [moomin](/page/member/moomin.md)
 + [광로우](/page/member/do_castle_r.md)
 + [sleepylapis](/page/member/sleepylapis.md)
-+ [키키](/page/member/kiki.md)
+
 
 [🡸](https://github.com/UniqueCodeGit/UniqueCodeGit)
 
